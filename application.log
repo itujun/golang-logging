@@ -1,0 +1,6 @@
+time="2025-07-30T03:03:37+07:00" level=info msg="Hello Info"
+time="2025-07-30T03:03:37+07:00" level=warning msg="Hello Warn"
+time="2025-07-30T03:03:37+07:00" level=error msg="Hello Error"
+time="2025-07-30T03:04:02+07:00" level=info msg="Hello Info"
+time="2025-07-30T03:04:02+07:00" level=warning msg="Hello Warn"
+time="2025-07-30T03:04:02+07:00" level=error msg="Hello Error"
